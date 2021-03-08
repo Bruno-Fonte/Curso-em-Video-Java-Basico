@@ -1,0 +1,1 @@
+Um programa utilizando swing que permite você montar uma instrução "for" de forma interativa, escolhendo o início, o fim, o passo e se vai incluir ou não o último número.
