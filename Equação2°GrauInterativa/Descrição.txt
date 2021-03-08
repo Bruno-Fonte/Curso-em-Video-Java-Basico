@@ -1,0 +1,1 @@
+Um programa em Swing que permite você montar uma equação do segundo grau e calcular o delta e as raízes da equação.
